@@ -102,7 +102,7 @@ export const researchSections: ResearchSection[] = [
   {
     title: "Integrated Therapeutic Framework",
     summary:
-      "TheramuseRX RX combines personality insights, nostalgia windows, and reinforcement learning to deliver evidence-aligned therapy playlists.",
+      "TheramuseRX combines personality insights, nostalgia windows, and reinforcement learning to deliver evidence-aligned therapy playlists.",
     bullets: [
       "Patient context drives personalised YouTube retrieval with strict filters against non-music content.",
       "Feedback loops update Linear Thompson Sampling bandits, automatically improving recommendation quality.",

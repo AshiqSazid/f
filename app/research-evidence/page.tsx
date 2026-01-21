@@ -116,7 +116,7 @@ const ResearchEvidence = () => {
           dementia, ADHD, and Down Syndrome populations. Integrating Big Five
           personality insights further increases adherence and therapeutic
           impact. By combining nostalgia-informed selection, active
-          participation, and reinforcement learning, TheramuseRX RX delivers
+          participation, and reinforcement learning, TheramuseRX delivers
           clinically aligned music therapy while capturing actionable feedback
           metrics.
         </p>

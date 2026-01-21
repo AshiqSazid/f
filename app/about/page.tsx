@@ -23,7 +23,7 @@ export default function AboutPage() {
             <div className="flex-1">
               <div className="flex items-center gap-4 mb-0">
                 <h1 className="text-xl lg:text-2xl font-serif tracking-tight font-bold text-gray-900">
-                  About TheramuseRXRX
+                  About TheramuseRX
                 </h1>
                 <span className="bg-green-100 text-green-800 text-sm font-medium px-3 py-1 rounded-full">
                   v2.1.0
@@ -37,7 +37,7 @@ export default function AboutPage() {
 
           <div className="prose prose-lg max-w-none text-gray-700">
             <p className="text-sm text-justify leading-relaxed">
-              <span className="font-semibold text-gray-900">TheramuseRX RX</span>{" "}
+              <span className="font-semibold text-gray-900">TheramuseRX</span>{" "}
               is a research-driven music therapy assistant designed by
               clinicians and machine learning engineers to accelerate
               personalised interventions for dementia, Down Syndrome, and ADHD
